@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PostOfficeApp</string>
+    <string name="startingText">Hey , there</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="forget_password">Forget your password ? </string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="terms_condition">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

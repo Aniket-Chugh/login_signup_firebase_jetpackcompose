@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327108318571",
+    "project_id": "postofficeapp-db2fe",
+    "storage_bucket": "postofficeapp-db2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327108318571:android:6de354c264a619740aa82e",
+        "android_client_info": {
+          "package_name": "com.example.postofficeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6LPanWn-t-bRMvM3G5mOmxUlN1QoLlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

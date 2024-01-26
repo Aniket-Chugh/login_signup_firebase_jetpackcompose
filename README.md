@@ -10,5 +10,6 @@ Login_SignUp_App is a simple Log In and Sign Up app built using Jetpack Compose 
 
 ## Video --
 
-https://github.com/Aniket-Chugh/login_signup_firebase_jetpackcompose/assets/149312276/0aedf36e-caca-46c9-b363-a20580910285
+https://github.com/Aniket-Chugh/login_signup_firebase_jetpackcompose/assets/149312276/03d240a3-8d7a-469e-aaf4-7e87377a24bc
+
 
